@@ -1,4 +1,5 @@
 # Installing-HAProxy
+![haproxy](http://www.haproxy.org/img/HAProxyCommunityEdition_60px.png)
 HAProxy_plus_Wordpress_plus_MySQL
 this are config files for installing 3 containers with Wordpress on port 80 and installing MySQL container on port 3306
 
