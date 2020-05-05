@@ -15,3 +15,4 @@ dpkg -i libssl1.0.0_1.0.2n-1ubuntu5.3_amd64.deb && \
 dpkg -i libicu60_60.2-3ubuntu3.1_amd64.deb && \
 wget -q https://github.com/PowerShell/PowerShell/releases/download/v7.0.0/powershell-lts_7.0.0-1.ubuntu.18.04_amd64.deb && \
 dpkg -i powershell-lts_7.0.0-1.ubuntu.18.04_amd64.deb
+rm ./*.deb
