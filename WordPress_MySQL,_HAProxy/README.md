@@ -10,4 +10,4 @@ Command for running haproxy Docker in this case:
 docker run -d -p 80:80 -p 3306:3306 -v $(pwd)/haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg haproxy
 
 ```
-![Задание](https://github.com/anatoliykv/Installing-HAProxy/blob/master/Image%20from%20iOS%20(1).jpg)
+![Задание](https://github.com/anatoliykv/Docker/blob/master/WordPress_MySQL%2C_HAProxy/Docker.jpg)
